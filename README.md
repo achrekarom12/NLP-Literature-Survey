@@ -1,6 +1,6 @@
 # NLP Literature Survey
 
-<b>Title:</b> Literature survey on Large Language Models and their comparison
+<b>Title:</b> Large Language Models and their comparison
  
 <b>Aim:</b> The aim of this literature survey is to provide a comprehensive review of large language models in natural language processing. It will focus on analyzing the architectures, training techniques, and applications of prominent models such as GPT and BERT. The survey aims to compare the performance, limitations, and impact of these models, while identifying emerging trends and open challenges in the field.
 
