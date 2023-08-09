@@ -55,3 +55,10 @@ text-davinci-003 has a maximum token limit of 8,192 tokens, which means it can g
 However, GPT-3's advantage lies in certain tasks like summarization or translation, where its larger training dataset provides it an edge. This increased data availability bolsters its performance over its predecessor.
 
 Conversely, BERT excels in tasks such as sentiment analysis or NLU. Its bidirectional approach enables it to consider both left and right context when making predictions. In contrast, GPT-3's prediction scope is limited to the left context for words or phrases in a sentence.</p>
+
+--------
+<h3>Conclusion:</h3>
+<p align="justify">
+In essence, GPT-3 and BERT have established their significance as valuable resources for executing diverse NLP tasks, displaying different levels of precision. Nevertheless, their contrasting architectures and training dataset sizes render them more effective for distinct tasks.
+To illustrate, GPT-3 excels in tasks like summarization or translation, whereas BERT's strengths lie in sentiment analysis or NLU. Ultimately, the selection between these two models hinges on the particular requirements of your task and the goals you aim to achieve.
+</p>
