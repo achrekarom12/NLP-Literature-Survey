@@ -41,3 +41,17 @@ text-davinci-003 is an improved version of text-davinci-002, which was one of th
 - It’s better at longer form content generation, allowing you to take on tasks that would have previously been too difficult to achieve.
 
 text-davinci-003 has a maximum token limit of 8,192 tokens, which means it can generate up to about 2,000 words at a time. It was trained on data up to September 2021. You can access text-davinci-003 through the OpenAI API and Playground at the same price as the other Davinci base language models.
+
+--------
+<h3>Comparison between BERT and GPT-3 models:</h3>
+<p align="justify"> Their architecture distinguishes GPT-3 from BERT in a prominent manner. As previously indicated, GPT-3 follows an autoregressive approach, whereas BERT employs a bidirectional strategy. While GPT-3's predictive process accounts solely for the left context, BERT takes into consideration both the left and right context. This distinction renders BERT more suitable for tasks like sentiment analysis and natural language understanding, where grasping the complete context of a sentence or phrase is pivotal.</p>
+<p align="justify"> Another dissimilarity between these two models pertains to their training datasets. Although both models underwent training with extensive text data from sources like Wikipedia and books, GPT-3's training incorporated a whopping 45TB of data, while BERT was trained on 3TB. Consequently, GPT-3 enjoys access to a greater volume of information compared to BERT. This could confer advantages in particular tasks such as summarization or translation, where abundant data can prove advantageous.</p>
+<p align="justify"> Lastly, there exists a divergence in terms of model size. While both models boast substantial sizes (GPT-3 with 1.5 billion parameters and BERT with 340 million parameters), GPT-3's magnitude significantly surpasses its predecessor due to the significantly larger training dataset size (470 times larger than the one used for training BERT).</p>
+
+--------
+<h3>Comparison between BERT and GPT-3 in terms of their capabilities:</h3>
+<p align="justify"> Both GPT-3 and BERT have demonstrated strong performance across a range of NLP tasks, including question answering, summarization, and translation. The level of accuracy varies based on the specific task.
+
+However, GPT-3's advantage lies in certain tasks like summarization or translation, where its larger training dataset provides it an edge. This increased data availability bolsters its performance over its predecessor.
+
+Conversely, BERT excels in tasks such as sentiment analysis or NLU. Its bidirectional approach enables it to consider both left and right context when making predictions. In contrast, GPT-3's prediction scope is limited to the left context for words or phrases in a sentence.</p>
